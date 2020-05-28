@@ -1,0 +1,7 @@
+from,to,relationship,weight,duration,closeness
+Ego,Xenia,10,4,2,1
+Ego,Paul,9,4,1,1
+Ego,Katarina,10,3,2,2
+Ego,Rebecca,10,2,1,3
+Paul,Xenia,10,2,1,2
+Rebecca,Paul,10,1,1,2
